@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+_src/media
+_src/.ipynb_checkpoints
+.DS_Store
